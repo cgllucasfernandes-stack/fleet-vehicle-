@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<record id="seq_fleet_vehicle_reservation" model="ir.sequence">
+        <name>Sequência de Reserva de Veículo</name>
+        <code>fleet.vehicle.reservation</code>
+        <prefix>RES/</prefix>
+        <padding>5</padding>
+        <company_id eval="False"/>
+    </record>
+</odoo>

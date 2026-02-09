@@ -14,9 +14,9 @@
     ],
     'data': [
         'security/ir.model.access.csv',
-        #'data/sequence.xml', houve algum erro na qual eu não sei identificar, por isso não consigo utlizar o 'sequence.xml' aqui
+        'data/sequence.xml',
         'views/fleet_reservation_views.xml',
-        #'views/fleet_reservation_menus.xml', Aconteceu o mesmo caso aqui, mas eu deixei os codigos deles no diretório caso queira 
+        'views/fleet_reservation_menu.xml', 
     ],
     'installable': True,
     'application': True,
